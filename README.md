@@ -6,6 +6,9 @@ The base project uses lombok, so you have to install it. You can use the followi
 
 ## Order Pilotes
 
+## For Run 
+mvn spring-boot:run   
+
 ## These are the steps of the happy path :D
 
 ## For create user/client (POST)
@@ -70,5 +73,15 @@ password : String
 Put token bearer for the access to api
 
 ![image](https://user-images.githubusercontent.com/22691843/186050111-3fca803e-b39b-40e6-bc25-e52c3efc1d42.png)
+
+## For see the data
+
+http://localhost:8080/console
+
+![image](https://user-images.githubusercontent.com/22691843/186050947-ba9198c7-57ed-48ce-ad8a-9dd055b68975.png)
+
+Press continue and run your querys
+
+![image](https://user-images.githubusercontent.com/22691843/186050880-a9e69f96-ef61-494c-a8c2-428d83550b59.png)
 
 
